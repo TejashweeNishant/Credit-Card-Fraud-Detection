@@ -29,7 +29,7 @@ The dataset contains transactions labeled as fraudulent (1) or legitimate (0).
 It is highly imbalanced, requiring SMOTE for fair training.
 
 
-🔥 Model Performance
+🔥 Model Performance:
 Metric	Score
 Accuracy	99.86%
 Precision	97.82%
@@ -52,8 +52,8 @@ The confusion matrix shows true positives, false positives, true negatives, and 
 🔹 Use Autoencoders for Anomaly Detection
 
 
-📝 License
+📝 License: 
 This project is MIT licensed. Feel free to modify and use it.
 
-📩 Contact
-📧 Email: tejnishdhiran@gmail.com
+📩 Contact:
+📧 Email:  tejnishdhiran@gmail.com
